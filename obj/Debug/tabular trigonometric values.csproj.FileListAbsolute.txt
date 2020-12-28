@@ -1,0 +1,8 @@
+D:\Programms\csharp\triginometric with GUI\programm\tabular trigonometric values\bin\Debug\tabular trigonometric values.exe.config
+D:\Programms\csharp\triginometric with GUI\programm\tabular trigonometric values\bin\Debug\tabular trigonometric values.exe
+D:\Programms\csharp\triginometric with GUI\programm\tabular trigonometric values\bin\Debug\tabular trigonometric values.pdb
+D:\Programms\csharp\triginometric with GUI\programm\tabular trigonometric values\obj\Debug\tabular_trigonometric_values.MainForm.resources
+D:\Programms\csharp\triginometric with GUI\programm\tabular trigonometric values\obj\Debug\tabular trigonometric values.csproj.GenerateResource.Cache
+D:\Programms\csharp\triginometric with GUI\programm\tabular trigonometric values\obj\Debug\tabular trigonometric values.exe
+D:\Programms\csharp\triginometric with GUI\programm\tabular trigonometric values\obj\Debug\tabular trigonometric values.pdb
+D:\Programms\csharp\triginometric with GUI\programm\tabular trigonometric values\obj\Debug\tabular trigonometric values.csprojResolveAssemblyReference.cache
